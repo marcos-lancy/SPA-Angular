@@ -1,11 +1,11 @@
 # Projeto SPA em Angular 
  
 Projeto simples em Angular para finalidades de testes de conhecimento.
-Foi desenvilvimento um principio de página de produtos com preço e algumas tomas decisões que modifiquem o conteúdo.
+Foi desenvilvimento um principio de página de produtos contendo: Preço, imagens, tomada de decisão de preço em promoção e etc.
 
 Foi usado **json-server** como opções rápida de **back-end**.
 
-### instruções
+### Instruções
 **1 -** Realize o clone/download do projeto.
 execute os comandos
 
@@ -23,3 +23,4 @@ Para iniciar a api json-server
 cd src/
 json-server --watch db.json --port 3000
 ```
+
