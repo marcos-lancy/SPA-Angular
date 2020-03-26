@@ -2,6 +2,7 @@
  
 Projeto simples em Angular para finalidades de testes de conhecimento.
 Foi desenvilvimento um principio de página de produtos contendo: Preço, imagens, tomada de decisão de preço em promoção e etc.
+Curso Eduardo Pires
 
 Foi usado **json-server** como opções rápida de **back-end**.
 
